@@ -2,7 +2,7 @@
   "name": "my-weather-app",
   "version": "0.1.0",
   "homepage": "https://Jimb0615.github.io/my-weather-app",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
